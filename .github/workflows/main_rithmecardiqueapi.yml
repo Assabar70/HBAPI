@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rithmecardiqueAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_139077ECF5B744D3B32ADAE5FB2EED62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_930D3A3F0F354E6F919B4544ACA30AD7 }}
