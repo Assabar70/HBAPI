@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'HBeatsAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACB13D15F16641D182402BC329044AFD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CEF2F171BF74A9D9A3E1177203B5DB4 }}
